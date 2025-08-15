@@ -10,5 +10,3 @@ for row in matrix:
 print(total)
 print(max(row))
 
-new_matrix=matrix[num*2]
-print(new_matrix)
