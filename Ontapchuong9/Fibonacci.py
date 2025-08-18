@@ -10,8 +10,7 @@ while True:
         break       
     x=y
     y=z
-
-    
+ 
     
 
 
